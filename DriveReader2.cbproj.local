@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.986,C:\cpp\DriveReader2\DriveReaderPCH1.h=C:\Users\grafn\OneDrive\Документы\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.620,C:\cpp\DriveReader2\DriveReader.dfm=C:\Users\grafn\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.105,C:\cpp\DriveReader2\DriveReader2.cbproj=C:\Users\grafn\OneDrive\Документы\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.137,=C:\Users\grafn\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.203,=C:\Users\grafn\OneDrive\Документы\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.128,=C:\Users\grafn\OneDrive\Документы\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.877,=C:\Users\grafn\OneDrive\Документы\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.571,C:\cpp\DriveReader2\IteratorDecorator.h=C:\cpp\DriveReader2\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.299,=C:\Users\grafn\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.620,C:\cpp\DriveReader2\DriveReader.h=C:\Users\grafn\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.189,C:\cpp\DriveReader2\FileSystemReader.cpp=C:\cpp\DriveReader2\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.736,=C:\cpp\DriveReader2\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.251,=C:\cpp\DriveReader2\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.663,=C:\Users\grafn\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.571,C:\cpp\DriveReader2\IteratorDecorator.cpp=C:\cpp\DriveReader2\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.620,C:\cpp\DriveReader2\DriveReader.cpp=C:\Users\grafn\OneDrive\Документы\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.189,C:\cpp\DriveReader2\FileSystemReader.h=C:\cpp\DriveReader2\Unit1.h</Transaction>
+  </Transactions>
+</BorlandProject>
